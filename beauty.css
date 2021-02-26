@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient( #80d4ff 0%,  #00cccc
+ 100%, #66ffe0 200%);
+}
+h1{
+    font-family:'Lobster';
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-top-style:dashed;
+    border-bottom-style: dashed;
+    border-left-color: fuchsia;
+    border-top-color:LightPink;
+     border-right-color:MediumVioletRed	;
+      border-bottom-color:HotPink;
+}
+h2{
+    font-family:'Pacifico';
+  color:deeppink ;
+
+}
+img{
+    border-style: dotted;
+    border-color:DarkViolet;
+}
+#normal{
+    height: 200px;
+    width: 200px;
+}
+h3{
+  font-family:'Pacifico';
+  color:deeppink ;  
+}
+#sport{
+    height:200px;
+    width:200px;
+}
